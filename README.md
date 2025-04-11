@@ -34,7 +34,8 @@ The response is shown in the chat interface.
 
 ## 🛠️ Setup Instructions
 Clone this repo:
-git clone https://github.com/yourusername/CyberSecurityChatbot.git
+
+git clone https://github.com/pratham-punjabi/CyberSecurityChatbot.git
 
 Install dependencies 
 
@@ -54,5 +55,5 @@ Open index.html in your browser to interact with the chatbot.
 
 - Admin dashboard for adding/removing FAQs
 
-📄 License
+## 📄 License
 This project is licensed under the MIT License.
