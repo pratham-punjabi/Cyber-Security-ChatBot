@@ -46,13 +46,13 @@ python app.py
 Open index.html in your browser to interact with the chatbot.
 
 ## 🌐 Future Improvements
-Add voice input and output
+- Add voice input and output
 
-Connect to a live threat feed
+- Connect to a live threat feed
 
-Train with more diverse questions
+- Train with more diverse questions
 
-Admin dashboard for adding/removing FAQs
+- Admin dashboard for adding/removing FAQs
 
 📄 License
 This project is licensed under the MIT License.
