@@ -34,66 +34,17 @@ The response is shown in the chat interface.
 
 🛠️ Setup Instructions
 Clone this repo:
-
-bash
-Copy
-Edit
 git clone https://github.com/yourusername/CyberSecurityChatbot.git
-Install dependencies (if Python backend is used):
+Install dependencies 
 
-bash
-Copy
-Edit
 pip install -r requirements.txt
-Run the server:
 
-bash
-Copy
-Edit
+Run the server:
 python app.py
+
 Open index.html in your browser to interact with the chatbot.
 
-🌐 Future Improvements
-Add voice input and output
-
-Connect to a live threat feed
-
-Train with more diverse questions
-
-Admin dashboard for adding/removing FAQs
-
-📄 License
-This project is licensed under the MIT License.🧠 How It Works
-User inputs a cybersecurity-related query.
-
-The chatbot processes it using NLP to extract intent.
-
-It matches the intent with a predefined response or provides a suitable reply.
-
-The response is shown in the chat interface.
-
-🛠️ Setup Instructions
-Clone this repo:
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/CyberSecurityChatbot.git
-Install dependencies (if Python backend is used):
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run the server:
-
-bash
-Copy
-Edit
-python app.py
-Open index.html in your browser to interact with the chatbot.
-
-🌐 Future Improvements
+🌐 **Future Improvements**
 Add voice input and output
 
 Connect to a live threat feed
@@ -104,4 +55,3 @@ Admin dashboard for adding/removing FAQs
 
 📄 License
 This project is licensed under the MIT License.
-
