@@ -23,7 +23,7 @@ This chatbot is built to help users understand, identify, and respond to various
 - **Backend:** Python (Flask) 
 - **NLP Engine:** Python's NLTK 
 
-🧠 **How It Works**
+## 🧠 How It Works
 User inputs a cybersecurity-related query.
 
 The chatbot processes it using NLP to extract intent.
@@ -32,9 +32,10 @@ It matches the intent with a predefined response or provides a suitable reply.
 
 The response is shown in the chat interface.
 
-🛠️ Setup Instructions
+## 🛠️ Setup Instructions
 Clone this repo:
 git clone https://github.com/yourusername/CyberSecurityChatbot.git
+
 Install dependencies 
 
 pip install -r requirements.txt
@@ -44,7 +45,7 @@ python app.py
 
 Open index.html in your browser to interact with the chatbot.
 
-🌐 **Future Improvements**
+## 🌐 Future Improvements
 Add voice input and output
 
 Connect to a live threat feed
