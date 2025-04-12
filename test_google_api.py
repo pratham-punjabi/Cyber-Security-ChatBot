@@ -1,6 +1,6 @@
 import requests
 
-GOOGLE_API_KEY = "AIzaSyC9mFmE_j8ox00NI-qwxzYJiR8hqP-50QU"  # Replace with your actual API key
+GOOGLE_API_KEY = ""  # Replace with your actual API key
 SAFE_BROWSING_URL = "https://safebrowsing.googleapis.com/v4/threatMatches:find"
 
 test_url = "http://malware.testing.google.test/testing/malware/"  # Known unsafe test site
