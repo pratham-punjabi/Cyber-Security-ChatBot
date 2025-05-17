@@ -34,9 +34,9 @@ The response is shown in the chat interface.
 
 ## 🛠️ Setup Instructions
 Clone this repo:
-
+```bash
 git clone https://github.com/pratham-punjabi/CyberSecurityChatbot.git
-
+```
 Run the server:
 ```bash
 python app.py
