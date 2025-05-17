@@ -37,12 +37,10 @@ Clone this repo:
 
 git clone https://github.com/pratham-punjabi/CyberSecurityChatbot.git
 
-Install dependencies 
-
-pip install -r requirements.txt
-
 Run the server:
+```bash
 python app.py
+```
 
 Open index.html in your browser to interact with the chatbot.
 
